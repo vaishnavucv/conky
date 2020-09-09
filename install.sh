@@ -1,6 +1,18 @@
 
 chmod +x *
 
+cd
+
+sudo mkdir Desktop-x
+
+cd Desktop/
+
+ls
+
+chmod +x *
+
+sudo mv * /root/Desktop-x
+
 sudo apt install -y conky
 
 sudo  mkdir -p ~/.config/autostart

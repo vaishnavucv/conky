@@ -1,5 +1,4 @@
 # conky
-
 ```
  Conky, a system monitor, based on torsmo
  
@@ -14,4 +13,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 ```
 
-# 
+# how to & what to do
+
+
+```
+git clone https://github.com/keralahacker/conky
+```
+
+```
+sudo chmod +x * 
+
+```
+
+
+```
+sudo ./install.sh
+
+```

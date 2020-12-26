@@ -27,6 +27,6 @@ sudo chmod +x *
 
 
 ```
-sudo ./install.sh
+then ping @ instagram.com/hack_with_vyshu will tell you (free.....!) 
 
 ```

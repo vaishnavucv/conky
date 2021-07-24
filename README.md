@@ -17,7 +17,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 
 ```
-git clone https://github.com/keralahacker/conky
+git clone https://github.com/vaishnavucv/conky
 ```
 
 ```
